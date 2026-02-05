@@ -4,4 +4,6 @@ A grab-bag of tips and reminders I turn to often.
 ### [Intellectual](intellectual/index.md)
 ### [Lifestyle](lifestyle/index.md)
 
-<me@que.one>
+<br>
+<br>
+<swift.tree8540@que.one>

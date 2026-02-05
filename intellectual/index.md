@@ -27,4 +27,6 @@
 - [US Identity Politics](identity-politics.md): How U.S. politics operates primarily through group identity rather than policy.
 - [Viral Truth](viral-truth.md): Tips for ensuring truth spreads faster than misinformation.  
 
-<me@que.one>
+<br>
+<br>
+<swift.tree8540@que.one>
