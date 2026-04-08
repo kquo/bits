@@ -5,5 +5,7 @@ Notes and reminders for easy reference.
 ### [Society](society/index.md)
 ### [Tech](tech/index.md)
 
+#### [About](about.md)
+
 <br>
 <swift.tree8540@que.one>
